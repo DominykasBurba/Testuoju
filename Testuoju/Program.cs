@@ -16,6 +16,8 @@ namespace Testuoju
             Console.WriteLine("Labas");
             Console.WriteLine("Labas");
             Console.WriteLine("Labas");
+
+            Console.WriteLine("Workers");
         }
     }
 }
